@@ -8,7 +8,7 @@ void main()
 
 	while (true)
 	{
-		//入力、表示
+		//入力、表示o
 		flg |= 1;
 		scanf_s("%d", &hit);
 		printf("%s\n", score[hit - 1]);
